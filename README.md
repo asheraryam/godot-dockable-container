@@ -1,4 +1,10 @@
 # Dockable Container
+
+> **Warning**
+>
+> This branch is only usable with Godot 4.X.
+> For Godot 3.X support, check out the [godot-3](https://github.com/gilzoide/godot-dockable-container/tree/godot-3) branch.
+
 Docking/tiling UI panels Container addon for [Godot](https://godotengine.org/).
 
 ![](screenshots/video1.gif)
@@ -19,7 +25,7 @@ Live preview a sample scene [here](https://gilzoide.github.io/godot-dockable-con
 ## Plugin
 Enable `Dockable Container` plugin at `Project -> Project Settings -> Plugin`
 to edit the layout directly in the inspector! It also registers the
-`DockableContainer` node and `DockableContainerLayout` Resource types.
+`DockableContainer` node type.
 
 ![](screenshots/video-editor.gif)
 
@@ -36,4 +42,4 @@ Tabs alignment and rearrange group are exported in DockableContainer.
 
 
 ## Credits
-**Dashboard** icon by The Icon Z from the Noun Project: https://thenounproject.com/term/dashboard/3846734
+Node icon made by [Nif-kun](https://github.com/Nif-kun). Licensed under [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
